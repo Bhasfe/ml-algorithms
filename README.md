@@ -28,6 +28,5 @@ In this repository, you will find implementations of the most commonly used Mach
    - Dimensionality Reduction
      - Principal Component Analysis (PCA)
      - Linear Discriminant Analysis
-   - Dimensionality Reduction
-     - Principal Component Analysis (PCA)
-     - Linear Discriminant Analysis
+   - Association
+     - Apriori
