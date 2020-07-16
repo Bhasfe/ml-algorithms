@@ -6,7 +6,7 @@ In this repository, you will find implementations of the most commonly used Mach
 
 **1. Supervised Learning**
    - Classification
-     - K-Nearest Neighbor (KNN)
+     - [K-Nearest Neighbor (KNN)](/KNN)
      - Logistic Regression
      - Decision Tree
      - Support Vector Machine (SVM)
