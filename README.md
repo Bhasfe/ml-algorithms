@@ -1,13 +1,13 @@
 # Common Machine Learning Algorithms
 ## Description
-In this repository, you will find implementations of the most commonly used Machine Learning algorithms. I will remain adding missing algorithms.You can also make contributions to those missing parts.
+In this repository, you will find implementations of the most commonly used Machine Learning algorithms. There will be only simple case studies for each. I will remain adding missing algorithms.You can also make contributions to those missing parts.
 
 ## Content
 
 **1. Supervised Learning**
    - Classification
      - [K-Nearest Neighbor (KNN)](/KNN)
-     - Logistic Regression
+     - [Logistic Regression](/Logistic%20Regression)
      - Decision Tree
      - Support Vector Machine (SVM)
      - Naive Bayes
