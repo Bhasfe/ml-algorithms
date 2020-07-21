@@ -9,7 +9,7 @@ In this repository, you will find implementations of the most commonly used Mach
      - [K-Nearest Neighbor (KNN)](/KNN)
      - [Logistic Regression](/Logistic%20Regression)
      - [Decision Tree](/Decision%20Tree%20-%20Classification)
-     - Support Vector Machine (SVM)
+     - [Support Vector Machine (SVM)](/SVC)
      - Naive Bayes
      - Random Forest
    - Regression
