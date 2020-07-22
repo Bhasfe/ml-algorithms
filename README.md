@@ -10,8 +10,8 @@ In this repository, you will find implementations of the most commonly used Mach
      - [Logistic Regression](/Logistic%20Regression)
      - [Decision Tree](/Decision%20Tree%20-%20Classification)
      - [Support Vector Machine (SVM)](/SVC)
+     - [Random Forest](/Random%20Forest%20-%20Classification)
      - Naive Bayes
-     - Random Forest
    - Regression
      - Linear Regression
      - Multiple Linear Regression
