@@ -5,3 +5,5 @@ Iris Dataset    |    https://archive.ics.uci.edu/ml/datasets/Iris
 
 weight-height   |    https://www.kaggle.com/mustafaali96/weight-height
 
+student-mat     |    https://archive.ics.uci.edu/ml/datasets/student+performance
+
