@@ -13,7 +13,7 @@ In this repository, you will find implementations of the most commonly used Mach
      - [Random Forest](/Random%20Forest%20-%20Classification)
      - Naive Bayes
    - Regression
-     - Linear Regression
+     - [Linear Regression](/Linear%20Regression)
      - Multiple Linear Regression
      - Polynomial Regression
      - Decission Tree
