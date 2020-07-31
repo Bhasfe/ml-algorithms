@@ -7,3 +7,4 @@ weight-height   |    https://www.kaggle.com/mustafaali96/weight-height
 
 student-mat     |    https://archive.ics.uci.edu/ml/datasets/student+performance
 
+winequality-red |    https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
