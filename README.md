@@ -16,7 +16,7 @@ In this repository, you will find implementations of the most commonly used Mach
      - [Linear Regression](/Linear%20Regression)
      - [Multiple Linear Regression](/Multiple%20Linear%20Regression)
      - [Polynomial Regression](/Polynomial%20Regression)
-     - Decission Tree
+     - [Decission Tree](/Decision%20Tree%20-%20Regression)
      - Random Forest
      
 **2. Unsupervised Learning**
