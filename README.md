@@ -1,6 +1,6 @@
 # Common Machine Learning Algorithms
 ## Description
-In this repository, you will find implementations of the most commonly used Machine Learning algorithms. There will be only simple case studies for each. I will remain adding missing algorithms.You can also make contributions to those missing parts.
+In this repository, you will find implementations of the most commonly used Machine Learning algorithms. There will be only simple case studies for each. I will remain to add missing algorithms.You can also make contributions to those missing parts.
 
 ## Content
 
