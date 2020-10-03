@@ -26,7 +26,7 @@ In this repository, you will find implementations of the most commonly used Mach
      - Hierarchical
      - DBSCAN
    - Dimensionality Reduction
-     - Principal Component Analysis (PCA)
+     - [Principal Component Analysis (PCA)](/PCA)
      - Linear Discriminant Analysis
    - Association
      - Apriori
