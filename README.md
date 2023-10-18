@@ -29,4 +29,4 @@ In this repository, you will find implementations of the most commonly used Mach
      - [Principal Component Analysis (PCA)](/PCA)
      - Linear Discriminant Analysis
    - Association
-     - Apriori
+     - [Apriori](https://github.com/shruti-2412/ml-algorithms/tree/master/Apriori)
